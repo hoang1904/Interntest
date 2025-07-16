@@ -1,6 +1,6 @@
 # Interntest
 
-Dự án website mẫu sử dụng Node.js + Express + MongoDB. Dùng để kiểm tra kiến thức lập trình web và xây dựng nền tảng ứng dụng đơn giản.
+Dự án website mẫu sử dụng reactjs. Dùng để kiểm tra kiến thức lập trình web và xây dựng nền tảng ứng dụng đơn giản.
 
 ## 📦 Yêu cầu hệ thống
 
@@ -20,51 +20,16 @@ cd Interntest
 
 ```bash
 npm install
+
+npm install react-toastify
 ```
 
-### 3. Tạo file `.env`
-
-Tạo một file tên `.env` trong thư mục gốc và thêm nội dung sau:
-
-```env
-PORT=3000
-MONGODB_URL=mongodb://localhost:27017/interntest
-SECRET_KEY=your_secret_key
-```
-
-> 🔒 Gợi ý: Thay `your_secret_key` bằng một chuỗi bảo mật tùy ý để mã hóa session đăng nhập.
-
-### 4. Chạy server
+### 3. Chạy server
 
 ```bash
-npm start
+npm run dev
 ```
 
-Mở trình duyệt và truy cập:
-
-```
-http://localhost:3000
-```
-
-## 🛠️ Cấu trúc thư mục
-
-```
-Interntest/
-├── models/         # Mongoose models
-├── public/         # Tệp tĩnh (CSS, JS, hình ảnh)
-├── routes/         # Định tuyến Express
-├── views/          # Giao diện (EJS)
-├── .env            # Thông tin môi trường
-├── server.js       # File chính khởi chạy ứng dụng
-├── package.json
-```
-
-## ✅ Tính năng chính
-
-* [x] Đăng ký / Đăng nhập người dùng
-* [x] Làm bài kiểm tra trắc nghiệm
-* [x] Quản lý câu hỏi
-* [x] Tính điểm tự động sau khi nộp bài
 
 ## 🧪 Các lệnh hữu ích
 
@@ -73,11 +38,6 @@ npm run dev     # Chạy server với nodemon (nếu đã cài)
 npm start       # Chạy server thông thường
 ```
 
-## 💡 Gợi ý mở rộng
-
-* Thêm tính năng phân quyền (admin / user)
-* Thống kê kết quả bài thi
-* Triển khai trên dịch vụ như Render, Vercel hoặc Railway
 
 ## 📬 Liên hệ
 
