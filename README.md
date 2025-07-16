@@ -87,9 +87,4 @@ Nếu bạn gặp lỗi hoặc cần đóng góp, hãy mở issue tại:
 
 ---
 
-```
 
----
-
-Bạn chỉ cần lưu đoạn trên vào tệp `README.md` là xong. Nếu cần mình có thể tạo và nén sẵn file `.zip` gồm cả `README.md`.
-```
