@@ -40,6 +40,10 @@ npm start       # Chạy server thông thường
 
 ## Demo 
 <img width="1795" height="948" alt="image" src="https://github.com/user-attachments/assets/99adb6e1-b5cf-4d2a-a06a-e5a48201746c" />
+<img width="1791" height="935" alt="image" src="https://github.com/user-attachments/assets/e46e766e-d12c-4d54-a045-38a78e6288a2" />
+<img width="1788" height="620" alt="image" src="https://github.com/user-attachments/assets/c6d4cec9-5203-433e-83ba-9464bf0507a0" />
+
+
 
 ## Deploy
 
