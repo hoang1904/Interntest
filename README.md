@@ -38,6 +38,9 @@ npm run dev     # Chạy server với nodemon (nếu đã cài)
 npm start       # Chạy server thông thường
 ```
 
+## Demo 
+<img width="1795" height="948" alt="image" src="https://github.com/user-attachments/assets/99adb6e1-b5cf-4d2a-a06a-e5a48201746c" />
+
 
 ## 📬 Liên hệ
 
