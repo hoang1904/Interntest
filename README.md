@@ -1,27 +1,21 @@
-Dưới đây là toàn bộ nội dung `README.md` viết lại thành **1 file hoàn chỉnh**, bạn có thể **sao chép và lưu lại** vào thư mục gốc dự án:
-
----
-
-````markdown
 # Interntest
 
-Dự án website mẫu sử dụng **Node.js + Express + MongoDB**. Dùng để kiểm tra kiến thức lập trình web và xây dựng nền tảng ứng dụng kiểm tra trực tuyến.
+Dự án website mẫu sử dụng Node.js + Express + MongoDB. Dùng để kiểm tra kiến thức lập trình web và xây dựng nền tảng ứng dụng đơn giản.
 
 ## 📦 Yêu cầu hệ thống
 
 - Node.js >= 14
-- MongoDB (local hoặc MongoDB Atlas)
-- Git (tùy chọn)
+- MongoDB (cài đặt local hoặc sử dụng MongoDB Atlas)
+- Git (tuỳ chọn)
 
-## 🚀 Cài đặt và chạy dự án
+## 🚀 Cài đặt
 
 ### 1. Clone repository
 
 ```bash
 git clone https://github.com/hoang1904/Interntest.git
 cd Interntest
-````
-
+```
 ### 2. Cài đặt dependencies
 
 ```bash
