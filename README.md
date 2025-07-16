@@ -41,12 +41,17 @@ npm start       # Chạy server thông thường
 ## Demo 
 <img width="1795" height="948" alt="image" src="https://github.com/user-attachments/assets/99adb6e1-b5cf-4d2a-a06a-e5a48201746c" />
 
+## Deploy
+
+Dưới đây là link deploy lên netlify ạ:
+
+https://intern-test1.netlify.app/
 
 ## 📬 Liên hệ
 
 Nếu bạn gặp lỗi hoặc cần đóng góp, hãy mở issue tại:
 
-👉 [https://github.com/hoang1904/Interntest](https://github.com/hoang1904/Interntest)
+https://github.com/hoang1904/Interntest
 
 ---
 
